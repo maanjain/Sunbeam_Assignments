@@ -1,0 +1,5 @@
+sunbeam@sunbeam-RMNBXXXX:~$ touch -t 202508221530  Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/3.txt
+sunbeam@sunbeam-RMNBXXXX:~$ ls -l  Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/3.txt
+-rw-rw-r-- 1 sunbeam sunbeam 19 Aug 22 15:30 Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/3.txt
+sunbeam@sunbeam-RMNBXXXX:~$ 
+

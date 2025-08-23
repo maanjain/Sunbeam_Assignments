@@ -1,0 +1,18 @@
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7$ mkdir one
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7$ cd one/
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ touch 1.txt 11.txt111.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ mkdir two
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ cd two
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two$ touch 2.txt 22.txt 222.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two$ mkdir three
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two$ cd three
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three$  touch 3.txt 33.txt 333.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three$ mkdir four
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three$ cd four
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four$ touch 4.txt 44.txt 444.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four$ mkdir five
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four$ cd five/
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ touch 5.txt 55.txt 555.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ cd ~
+sunbeam@sunbeam-RMNBXXXX:~$ 
+

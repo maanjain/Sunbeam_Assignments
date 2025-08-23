@@ -1,0 +1,10 @@
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_5$ cat > name.txt 
+Name : Maan 
+Surname : Jain
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_5$ cat >> name.txt 
+Add : G-12 Bhairav Society Pachpedinaka ,Raipur , Chhattisgarh 
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_5$ cat name.txt 
+Name : Maan 
+Surname : Jain
+Add : G-12 Bhairav Society Pachpedinaka ,Raipur , Chhattisgarh
+

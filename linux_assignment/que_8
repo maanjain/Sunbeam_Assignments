@@ -1,0 +1,25 @@
+sunbeam@sunbeam-RMNBXXXX:~$ ls  Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five
+555.txt  55.txt  5.txt
+sunbeam@sunbeam-RMNBXXXX:~$ cat >  Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/44.txt
+Name: Maan Jain
+sunbeam@sunbeam-RMNBXXXX:~$ rm  Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five/555.txt
+sunbeam@sunbeam-RMNBXXXX:~$ cd  Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ cat >> ../../3.txt 
+Course Name : DESD
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ cat  ../../3.txt 
+Course Name : DESD
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ ls ../../
+333.txt  33.txt  3.txt  four
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ ls ../../../
+222.txt  22.txt  2.txt  three
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ rm ../../../222.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two/three/four/five$ cd ../../../
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two$ cd..
+cd..: command not found
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one/two$ cd ..
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ rm -r  two/three/four/five/*
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ 
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ rmdir two/three/four/five/
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ rm -r two/three/four/
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_7/one$ cd ~
+

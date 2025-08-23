@@ -1,0 +1,9 @@
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_6$ ls -l
+total 0
+-rw-rw-r-- 1 sunbeam sunbeam 0 Aug 23 21:33 change.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_6$ man touch
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_6$ touch -t 202508231530.45 change.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_6$ ls -l
+total 0
+-rw-rw-r-- 1 sunbeam sunbeam 0 Aug 23 15:30 change.txt
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_6$ 

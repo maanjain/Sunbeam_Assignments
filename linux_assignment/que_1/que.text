@@ -1,0 +1,17 @@
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ man ls
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ ls
+que_1  que_2  que_3  que_4  que_5  que_6  que_7  que_8  que_9
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ ls -lt
+total 36
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 16:28 que_1
+drwxrwxr-x 3 sunbeam sunbeam 4096 Aug 23 16:18 que_9
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 16:18 que_8
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 16:16 que_5
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 16:16 que_4
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 16:16 que_2
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 16:16 que_3
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 13:58 que_7
+drwxrwxr-x 2 sunbeam sunbeam 4096 Aug 23 13:58 que_6
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ 
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ 
+

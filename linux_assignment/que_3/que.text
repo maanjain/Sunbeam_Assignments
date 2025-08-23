@@ -1,0 +1,11 @@
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ man ls
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ ls
+que_1  que_2  que_3  que_4  que_5  que_6  que_7  que_8  que_9
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ ls-i
+ls-i: command not found
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ ls -i
+6047672 que_1  6047674 que_3  6044435 que_5  6043431 que_7  6047492 que_9
+6047673 que_2  6047675 que_4  6044436 que_6  6044578 que_8
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ ^C
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment$ 
+

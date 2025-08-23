@@ -1,0 +1,10 @@
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_1$ pwd
+/home/sunbeam/Desktop/DESD-25/Assignment/linux_assignment/que_1
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_1$ ls
+ que.text  'Screenshot from 2025-08-23 16-32-23.png'
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_1$ ls -ls
+total 328
+  4 -rw-rw-r-- 1 sunbeam sunbeam    928 Aug 23 16:35  que.text
+324 -rw-rw-r-- 1 sunbeam sunbeam 329869 Aug 23 16:32 'Screenshot from 2025-08-23 16-32-23.png'
+sunbeam@sunbeam-RMNBXXXX:~/Desktop/DESD-25/Assignment/linux_assignment/que_1$ 
+
